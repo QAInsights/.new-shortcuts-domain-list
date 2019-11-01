@@ -2,7 +2,7 @@
 
 This is the curated collection of .new shortcut domains. Feel free to add valid links.
 
-For more details about .new, visit [https://dealsrookie.com/googles-new-shortcut-now-available-as-tld/](Deals Rookie Blog)
+For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/googles-new-shortcut-now-available-as-tld/)
 
 * [https://whats.new/](https://whats.new/) - Google's .new registry info
 * [https://playlist.new/](https://playlist.new/) [https://podcast.new/](https://podcast.new/) - To create a new playlist and podcast respectively on Spotify
