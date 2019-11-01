@@ -11,12 +11,12 @@ This is the curated collec- [.new-shortcuts-domain-list](#new-shortcuts-domain-l
 * [https://music.new/](https://music.new/) - To create a OVO Sound record lable
 * [https://api.new/](https://api.new/) - To ship your API endpoints at RunKit
 * [https://coda.new/](https://coda.new/) - To create a doc for teams at Coda
-* [https://sell.new/](https://sell.new/) [https://shop.new/] - To sell or shop at eBay
-* [https://repo.new/] | [https://gist.new/] - To create a repo or gist at GitHub
-* [https://reservation.new/] | [https://restaurant.new/] - To create a reservation at OpenTable
-* [https://docs.new/] | [https://doc.new/] - To create a Google doc
-* [https://sheets.new/] | [https://sheet.new/] - To create a Google spreadsheet
-* [https://slides.new/] | [https://slide.new/] - To create a Google slides
-* [https://keep.new/] - To create a note at Google Keep
-* [https://forms.new/] | [https://form.new/] - To create a new Google form
-* [https://cal.new/] | [https://meeting.new/] - To create a new calendar appointment at Google Calendar
+* [https://sell.new/](https://sell.new/) [https://shop.new/](https://shop.new/) - To sell or shop at eBay
+* [https://repo.new/](https://repo.new/) [https://gist.new/](https://gist.new/) - To create a repo or gist at GitHub
+* [https://reservation.new/](https://reservation.new/) | [https://restaurant.new/](https://restaurant.new/) - To create a reservation at OpenTable
+* [https://docs.new/](https://docs.new/) [https://doc.new/](https://doc.new/) - To create a Google doc
+* [https://sheets.new/](https://sheets.new/) [https://sheet.new/](https://sheet.new/) - To create a Google spreadsheet
+* [https://slides.new/](https://slides.new/) [https://slide.new/](https://slide.new/) - To create a Google slides
+* [https://keep.new/](https://keep.new/) - To create a note at Google Keep
+* [https://forms.new/](https://forms.new/) [https://form.new/](https://form.new/) - To create a new Google form
+* [https://cal.new/](https://cal.new/) [https://meeting.new/](https://meeting.new/) - To create a new calendar appointment at Google Calendar
