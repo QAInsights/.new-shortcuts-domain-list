@@ -20,3 +20,4 @@ This is the curated collection of .new shortcut domains. Feel free to add valid 
 * [https://keep.new/](https://keep.new/) - To create a note at Google Keep
 * [https://forms.new/](https://forms.new/) [https://form.new/](https://form.new/) - To create a new Google form
 * [https://cal.new/](https://cal.new/) [https://meeting.new/](https://meeting.new/) - To create a new calendar appointment at Google Calendar
+* [https://email.new](https://email.new) - To check Google email
