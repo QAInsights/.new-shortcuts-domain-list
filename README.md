@@ -24,3 +24,6 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://forms.new/](https://forms.new/) [https://form.new/](https://form.new/) - To create a new Google form
 * [https://cal.new/](https://cal.new/) [https://meeting.new/](https://meeting.new/) - To create a new calendar appointment at Google Calendar
 * [https://email.new](https://email.new) - To check Google email
+
+# Donate
+<a href="https://www.buymeacoffee.com/qainsights" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
