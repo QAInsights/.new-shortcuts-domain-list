@@ -25,5 +25,12 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://cal.new/](https://cal.new/) [https://meeting.new/](https://meeting.new/) - To create a new calendar appointment at Google Calendar
 * [https://email.new](https://email.new) - To check Google email
 
+# Potential .new domains
+* [https://tweet.new](https://tweet.new) - To compose a tweet
+* [https://fb.new](https://fb.new) [https://facebook.new](https://facebook.new) - To create a post in Facebook
+* [https://ping.new](https://ping.new) - To ping a website/host
+* [https://insta.new](https://insta.new) [https://instagram.new](https://instagram.new) - To create a post in Instagram
+* [https://job.new](https://job.new) - To create a post/job in LinkedIn
+
 # Donate
 <a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
