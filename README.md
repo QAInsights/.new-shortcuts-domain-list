@@ -1,2 +1,4 @@
 # .new-shortcuts-domain-list
-Collection of .new shortcut domains
+This is the curated collection of .new shortcut domains. Feel free to add valid links.
+
+https://whats.new/
