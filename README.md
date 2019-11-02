@@ -26,8 +26,8 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://email.new](https://email.new) [https://mail.new](https://mail.new) - To check Google email
 
 # Potential .new domains
-* [https://tweet.new](https://tweet.new) - To compose a tweet
-* [https://fb.new](https://fb.new) [https://facebook.new](https://facebook.new) - To create a post in Facebook
+* [https://tweet.new](https://tweet.new) - To compose a tweet. This domain already registered by Twitter.
+* [https://fb.new](https://fb.new) [https://facebook.new](https://facebook.new) - To create a post in Facebook. This domain already registered by Facebook.
 * [https://ping.new](https://ping.new) - To ping a website/host
 * [https://insta.new](https://insta.new) [https://instagram.new](https://instagram.new) - To create a post in Instagram
 * [https://job.new](https://job.new) - To create a post/job in LinkedIn
