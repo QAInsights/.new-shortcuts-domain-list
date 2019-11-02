@@ -41,6 +41,8 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://teach.new](https://teach.new) - To publish a new online course
 * [https://cloud.new](https://cloud.new) - To spin up a new instance in cloud e.g. AWS, Azure, GCP etc.
 * [https://chrome.new](https://chrome.new) - To download Chrome
+* [https://watch.new](https://watch.new) - To stream a movie/serial in Netflix
+
 
 # Donate
 <a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
