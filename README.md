@@ -23,7 +23,7 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://keep.new/](https://keep.new/) - To create a note at Google Keep
 * [https://forms.new/](https://forms.new/) [https://form.new/](https://form.new/) - To create a new Google form
 * [https://cal.new/](https://cal.new/) [https://meeting.new/](https://meeting.new/) - To create a new calendar appointment at Google Calendar
-* [https://email.new](https://email.new) - To check Google email
+* [https://email.new](https://email.new) [https://mail.new](https://mail.new) - To check Google email
 
 # Potential .new domains
 * [https://tweet.new](https://tweet.new) - To compose a tweet
@@ -31,6 +31,16 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://ping.new](https://ping.new) - To ping a website/host
 * [https://insta.new](https://insta.new) [https://instagram.new](https://instagram.new) - To create a post in Instagram
 * [https://job.new](https://job.new) - To create a post/job in LinkedIn
+* [https://quote.new](https://quote.new) - To get a auto/renters/health/vision/dental/property quote. 
+* [https://message.new](https://message.new) - To create a message in WhatsApp
+* [https://messenger.new](https://job.new) - To create a message in Facebook Messenger
+* [https://event.new](https://job.new) - To create a event in Meetup
+* [https://coffee.new](https://job.new) - To order a coffee in Starbucks
+* [https://todo.new](https://job.new) - To create a to-do in Microsoft ToDo app
+* [https://code.new](https://code.new) - To post a code snippet
+* [https://teach.new](https://teach.new) - To publish a new online course
+* [https://cloud.new](https://cloud.new) - To spin up a new instance in cloud e.g. AWS, Azure, GCP etc.
+* [https://chrome.new](https://chrome.new) - To download Chrome
 
 # Donate
 <a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
