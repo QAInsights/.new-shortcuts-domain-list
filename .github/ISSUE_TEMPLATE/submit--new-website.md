@@ -1,7 +1,7 @@
 ---
 name: Submit .new Website
 about: Submit .new website
-title: Submit .new website
+title: Add <.new_website_URL>
 labels: ''
 assignees: ''
 
