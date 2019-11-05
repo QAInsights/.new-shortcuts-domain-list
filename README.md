@@ -43,6 +43,9 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://chrome.new](https://chrome.new) - To download Chrome
 * [https://watch.new](https://watch.new) - To stream a movie/serial in Netflix
 
+# Submit your findings
+
+Please [create a new issue](https://github.com/QAInsights/.new-shortcuts-domain-list/issues/new?assignees=&labels=&template=submit--new-website.md&title=Add+%3C.new_website_URL%3E) to add your .new findings.
 
 # Donate
 <a target="_blank" href="https://www.buymeacoffee.com/qainsights"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
