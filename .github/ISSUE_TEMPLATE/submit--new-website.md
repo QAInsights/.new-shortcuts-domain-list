@@ -1,7 +1,7 @@
 ---
 name: Submit .new Website
 about: Submit .new website
-title: ''
+title: Submit .new website
 labels: ''
 assignees: ''
 
