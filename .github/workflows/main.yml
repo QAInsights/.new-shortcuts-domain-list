@@ -6,4 +6,11 @@ jobs:
     steps:
     - name: Lighthouse CI Action
       uses: treosh/lighthouse-ci-action@v1
-
+      with:
+        urls:
+            https://example.com/            
+    - name: Save results
+      uses: actions/upload-artifact@v1
+      with:
+        name: lighthouse-results
+        path: '.lighthouseci' # This will save the Lighthouse results as .json files
