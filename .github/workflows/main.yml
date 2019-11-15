@@ -1,12 +1,18 @@
-name: CI
-
-on: [push]
-
+name: Lighthouse
+on: push
 jobs:
-  build:
-
+  lighthouse:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Lighthouse CI Action
-      uses: treosh/lighthouse-ci-action@v2
+      - uses: actions/checkout@v1
+      - name: Audit URLs using Lighthouse
+        uses: treosh/lighthouse-ci-action@v2
+        with:
+          urls: |
+            https://example.com/
+            https://example.com/blog
+      - name: Save results
+        uses: actions/upload-artifact@v1
+        with:
+          name: lighthouse-results
+          path: '.lighthouseci' # This will save the Lighthouse results as .json files
