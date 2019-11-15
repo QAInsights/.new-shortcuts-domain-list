@@ -13,4 +13,4 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         name: lighthouse-results
-        path: '.new-shortcuts-domain-list' # This will save the Lighthouse results as .json files
+        path: ./ # This will save the Lighthouse results as .json files
