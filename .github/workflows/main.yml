@@ -1,0 +1,12 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Lighthouse CI Action
+      uses: treosh/lighthouse-ci-action@v2
