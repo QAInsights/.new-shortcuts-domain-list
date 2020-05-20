@@ -42,6 +42,8 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://cloud.new](https://cloud.new) - To spin up a new instance in cloud e.g. AWS, Azure, GCP etc.
 * [https://chrome.new](https://chrome.new) - To download Chrome
 * [https://watch.new](https://watch.new) - To stream a movie/serial in Netflix
+* [https://discord.new/](https://discord.new/ ) - For discord
+
 
 # Submit your findings
 
