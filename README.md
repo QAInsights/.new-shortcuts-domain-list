@@ -5,6 +5,7 @@ This is the curated collection of .new shortcut domains. Feel free to add valid 
 For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/googles-new-shortcut-now-available-as-tld/)
 
 * [https://whats.new/](https://whats.new/) - Google's .new registry info
+* [https://meet.new](https://meet.new) - Google's Meet
 * [https://playlist.new/](https://playlist.new/) [https://podcast.new/](https://podcast.new/) - To create a new playlist and podcast respectively on Spotify
 * [https://story.new/](https://story.new/) - To create a new story on Medium
 * [https://canva.new/](https://canva.new/) [https://design.new/](https://design.new/) - To create a new design on Canva
