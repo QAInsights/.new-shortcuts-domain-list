@@ -25,6 +25,7 @@ For more details about .new, visit [Deals Rookie Blog](https://dealsrookie.com/g
 * [https://forms.new/](https://forms.new/) [https://form.new/](https://form.new/) - To create a new Google form
 * [https://cal.new/](https://cal.new/) [https://meeting.new/](https://meeting.new/) - To create a new calendar appointment at Google Calendar
 * [https://email.new](https://email.new) [https://mail.new](https://mail.new) - To check Google email
+* [https://todo.new](https://todo.new) - For wip.chat
 
 # Potential .new domains
 * [https://tweet.new](https://tweet.new) - To compose a tweet. This domain already registered by Twitter.
