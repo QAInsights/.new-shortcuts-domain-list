@@ -24,6 +24,7 @@ This is the curated collection of .new shortcut domains. Feel free to add valid 
 * [https://cal.new/](https://cal.new/) [https://meeting.new/](https://meeting.new/) - To create a new calendar appointment at Google Calendar
 * [https://email.new](https://email.new) [https://mail.new](https://mail.new) - To check Google email
 * [https://todo.new](https://todo.new) - For wip.chat
+* [https://repl.new](https://repl.new) - To create a new Repl on Replit 
 
 # Potential .new domains
 * [https://tweet.new](https://tweet.new) - To compose a tweet. This domain already registered by Twitter.
